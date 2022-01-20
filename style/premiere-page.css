@@ -1,0 +1,7 @@
+#premiere-page
+{
+    flex: auto;
+    border: 20px; 
+    grid-row: 20px;
+    padding-left:120px;
+  }
