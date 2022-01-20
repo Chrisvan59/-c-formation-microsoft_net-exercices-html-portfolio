@@ -1,0 +1,25 @@
+body{
+    color:blue;
+    font-weight: initial;
+    font-size: 150% ;
+    font:200;
+    background-color:rgb(104, 160, 206);
+    padding-left:5%;
+    padding-right:30% ;
+  }
+  
+  h1{
+    color:crimson;
+    font:bold;
+  }
+    h2{
+        color:rgb(34, 168, 168);
+        font:bold;
+}
+  
+  h3{
+    color:green;
+    font:bold;
+}
+  
+  
