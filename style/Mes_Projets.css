@@ -7,7 +7,10 @@ body{
     padding-left:5%;
     padding-right:30% ;
   }
-  
+  table{
+    padding-inline-end: 50%;
+    padding-block:initial;
+  }
   h1{
     color:crimson;
     font:bold;
